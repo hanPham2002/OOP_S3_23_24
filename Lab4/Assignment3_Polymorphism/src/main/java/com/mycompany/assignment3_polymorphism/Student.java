@@ -12,6 +12,7 @@ import java.util.*;
  */
 public class Student {
 //han
+    
     private String id;
     private String fullName;
     private int credit;
